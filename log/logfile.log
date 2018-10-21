@@ -1,0 +1,7 @@
+2018-10-21 21:18:40,620  INFO [main] - TaskHobby.Test.main 11 - 0
+2018-10-21 21:19:45,251  INFO [main] - TaskHobby.Test.main 15 - Количество объектов 1
+2018-10-21 21:21:01,453  INFO [main] - TaskHobby.Test.main 15 - Количество объектов 1
+2018-10-21 21:21:02,264 ERROR [main] - TaskHobby.Test.main 25 - Количество введенных символов 1
+2018-10-21 21:22:43,774  INFO [main] - TaskHobby.Test.main 15 - Количество объектов 2
+2018-10-21 21:22:46,852 DEBUG [main] - TaskHobby.Test.main 25 - Количество введенных символов 2
+2018-10-21 21:22:48,662 DEBUG [main] - TaskHobby.Test.main 25 - Количество введенных символов 1
