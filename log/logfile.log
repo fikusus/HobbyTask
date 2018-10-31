@@ -1,7 +1,13 @@
-2018-10-21 21:18:40,620  INFO [main] - TaskHobby.Test.main 11 - 0
-2018-10-21 21:19:45,251  INFO [main] - TaskHobby.Test.main 15 - Количество объектов 1
-2018-10-21 21:21:01,453  INFO [main] - TaskHobby.Test.main 15 - Количество объектов 1
-2018-10-21 21:21:02,264 ERROR [main] - TaskHobby.Test.main 25 - Количество введенных символов 1
-2018-10-21 21:22:43,774  INFO [main] - TaskHobby.Test.main 15 - Количество объектов 2
-2018-10-21 21:22:46,852 DEBUG [main] - TaskHobby.Test.main 25 - Количество введенных символов 2
-2018-10-21 21:22:48,662 DEBUG [main] - TaskHobby.Test.main 25 - Количество введенных символов 1
+2018-10-31 22:01:29,942  INFO [main] - TaskHobby.Test.main 15 - Количество объектов 1
+2018-10-31 22:01:32,546 DEBUG [main] - TaskHobby.Test.main 25 - Количество введенных символов 1
+2018-10-31 22:43:22,817  INFO [main] - TaskHobby.Test.main 16 - Количество объектов 2
+2018-10-31 22:43:32,411 DEBUG [main] - TaskHobby.Test.main 25 - Количество введенных символов 3
+2018-10-31 22:43:40,503 DEBUG [main] - TaskHobby.Test.main 25 - Количество введенных символов 4
+2018-10-31 22:43:40,503 ERROR [main] - TaskHobby.Test.main 27 - Неверное количество символов
+2018-10-31 22:44:14,604  INFO [main] - TaskHobby.Test.main 16 - Количество объектов 2
+2018-10-31 22:44:20,733 DEBUG [main] - TaskHobby.Test.main 25 - Количество введенных символов 3
+2018-10-31 22:44:26,120 DEBUG [main] - TaskHobby.Test.main 25 - Количество введенных символов 4
+2018-10-31 22:44:26,120 ERROR [main] - TaskHobby.Test.main 27 - Неверное количество символов
+2018-10-31 22:46:36,041  INFO [main] - TaskHobby.Test.main 16 - Количество объектов 1
+2018-10-31 22:46:39,751 DEBUG [main] - TaskHobby.Test.main 25 - Количество введенных символов 4
+2018-10-31 22:46:39,751 ERROR [main] - TaskHobby.Test.main 27 - Неверное количество символов

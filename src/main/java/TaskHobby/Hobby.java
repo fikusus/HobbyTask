@@ -1,5 +1,7 @@
 package TaskHobby;
-public class Hobby {
+
+
+public abstract class Hobby {
     private byte howMuchHourInDay;
     private short howManyYears;
     private int numberOfLikeMindedPeople;
@@ -11,6 +13,7 @@ public class Hobby {
 
     public Hobby() {
         this.firstLetterInTitle = 'N';
+
     }
 
     public Hobby(char firstLetterInTitle, short howManyYears) {
